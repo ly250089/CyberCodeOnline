@@ -2648,7 +2648,7 @@
  	 	 	 	"eng": "Factory Reset"
  	 	 	},
  	 	 	"quality": {
- 	 	 	 	"trans": "質量",
+ 	 	 	 	"trans": "品質",
  	 	 	 	"eng": "quality"
  	 	 	}
  	 	},
@@ -3063,7 +3063,7 @@
  	 	 	 	 	"eng": "Seems like you dont have any Pain Away with you, purchase it from Trinoky Mart in the city first before entering dungeons, since you will not regen after battles in dungeon"
  	 	 	 	},
  	 	 	 	"cancel": {
- 	 	 	 	 	"trans": "之後",
+ 	 	 	 	 	"trans": "晚點再說",
  	 	 	 	 	"eng": "Later"
  	 	 	 	},
  	 	 	 	"confirm": {
@@ -3450,7 +3450,7 @@
  	 	 	"eng": "craft"
  	 	},
  	 	"ok": {
- 	 	 	"trans": "行",
+ 	 	 	"trans": "好的",
  	 	 	"eng": "OK"
  	 	}
  	},
@@ -3709,27 +3709,27 @@
  	 	 	 	"eng": "Animals Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "增加對「野獸幫」幫派敵人造成的傷害",
+ 	 	 	 	"trans": "增加對野獸幫的敵人造成的傷害",
  	 	 	 	"eng": "Increases damage to Enemies of Animals gang"
  	 	 	}
  	 	},
  	 	"m2Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "巫毒小子剋星",
+ 	 	 	 	"trans": "巫毒幫剋星",
  	 	 	 	"eng": "Voodoo Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "增加對「巫毒小子」幫派敵人造成的傷害",
+ 	 	 	 	"trans": "增加對巫毒幫的敵人造成的傷害",
  	 	 	 	"eng": "Increases damage to Enemies of Voodoo Boys gang"
  	 	 	}
  	 	},
  	 	"m3Dmg": {
  	 	 	"name": {
- 	 	 	 	"trans": "流浪者剋星",
+ 	 	 	 	"trans": "清道夫剋星",
  	 	 	 	"eng": "Scavengers Nemesis"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "增加對「流浪者」幫派敵人造成的傷害",
+ 	 	 	 	"trans": "增加對清道幫的敵人造成的傷害",
  	 	 	 	"eng": "Increases damage to Enemies of Scavengers gang"
  	 	 	}
  	 	},
@@ -3739,17 +3739,17 @@
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "「流浪者」幫派敵人將對你造成更多的傷害",
+ 	 	 	 	"trans": "清道夫幫的敵人對你造成的傷害增加",
  	 	 	 	"eng": "Enemies of Scavengers gang deals increased damage to you"
  	 	 	}
  	 	},
  	 	"m2V": {
  	 	 	"name": {
- 	 	 	 	"trans": "干擾",
+ 	 	 	 	"trans": "顛覆者",
  	 	 	 	"eng": "Disruptor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "「野獸幫」幫派敵人將對你造成更多的傷害",
+ 	 	 	 	"trans": "野獸幫的敵人對你造成的傷害增加",
  	 	 	 	"eng": "Enemies of Animals gang deals increased damage to you"
  	 	 	}
  	 	},
@@ -3759,7 +3759,7 @@
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "「巫毒小子」幫派敵人將對你造成更多的傷害",
+ 	 	 	 	"trans": "巫毒幫的敵人對你造成的傷害增加",
  	 	 	 	"eng": "Enemies of Voodoo Boys gang deals increased damage to you"
  	 	 	}
  	 	}
@@ -4753,7 +4753,7 @@
  	 	 	 	 	"eng": "More coming in future update"
  	 	 	 	},
  	 	 	 	"12": {
- 	 	 	 	 	"trans": "我有提到你會變成一個模控學馬鈴薯嗎？",
+ 	 	 	 	 	"trans": "我有提到你會變成一個電馭馬鈴薯嗎？",
  	 	 	 	 	"eng": "Did I mention you could be a Cybernetic Potato?"
  	 	 	 	}
  	 	 	}
@@ -5130,17 +5130,17 @@
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "對「野獸幫」幫派敵人造成更多的傷害。 自「流浪者」幫派敵人受到更多的傷害。",
+ 	 	 	 	"trans": "對野獸幫造成的傷害增加。 受到清道夫幫的傷害增加。",
  	 	 	 	"eng": "deals increased damage to Animals gang. receives increased damage from Scavengers gang."
  	 	 	}
  	 	},
  	 	"mark2": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "干擾",
+ 	 	 	 	"trans": "顛覆者",
  	 	 	 	"eng": "Disruptor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "對「巫毒小子」幫派敵人造成更多的傷害。 自「野獸幫」幫派敵人受到更多的傷害。",
+ 	 	 	 	"trans": "對巫毒幫造成的傷害增加。 受到野獸幫的傷害增加。",
  	 	 	 	"eng": "deals increased damage to Voodoo Boys gang. receives increased damage from Animals gang."
  	 	 	}
  	 	},
@@ -5150,7 +5150,7 @@
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "對「流浪者」幫派敵人造成更多的傷害。 自「巫毒小子」幫派敵人受到更多的傷害。",
+ 	 	 	 	"trans": "對清道夫幫造成的傷害增加。 受到巫毒幫的傷害增加。",
  	 	 	 	"eng": "deals increased damage to Scavengers gang. receives increased damage from Voodoo Boys gang."
  	 	 	}
  	 	}
@@ -5164,13 +5164,13 @@
  	 	},
  	 	"gang2": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "巫毒小子",
+ 	 	 	 	"trans": "巫毒幫",
  	 	 	 	"eng": "Voodoo boys"
  	 	 	}
  	 	},
  	 	"gang3": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "流浪者",
+ 	 	 	 	"trans": "清道夫幫",
  	 	 	 	"eng": "Scavengers"
  	 	 	}
  	 	}
