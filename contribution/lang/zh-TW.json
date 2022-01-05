@@ -2648,7 +2648,7 @@
  	 	 	 	"eng": "Factory Reset"
  	 	 	},
  	 	 	"quality": {
- 	 	 	 	"trans": "質量",
+ 	 	 	 	"trans": "品質",
  	 	 	 	"eng": "quality"
  	 	 	}
  	 	},
@@ -4090,7 +4090,7 @@
  	 	 	 	"eng": "Send Private Message"
  	 	 	},
  	 	 	"reply": {
- 	 	 	 	"trans": "回復",
+ 	 	 	 	"trans": "回覆",
  	 	 	 	"eng": "Reply"
  	 	 	}
  	 	},
@@ -4753,7 +4753,7 @@
  	 	 	 	 	"eng": "More coming in future update"
  	 	 	 	},
  	 	 	 	"12": {
- 	 	 	 	 	"trans": "我有提到你會變成一個模控學馬鈴薯嗎？",
+ 	 	 	 	 	"trans": "我有提到你會變成一個電馭馬鈴薯嗎？",
  	 	 	 	 	"eng": "Did I mention you could be a Cybernetic Potato?"
  	 	 	 	}
  	 	 	}
